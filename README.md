@@ -1,6 +1,6 @@
 <h1><a href="https://wmbolles.com">wmbolles.com</a></h1>
 <a href="https://wmbolles.me">wmbolles.me</a></h1>
-<div align="center"> <img width="2000" src="wmbolles.gif" alt=""> </div>
+<div align="center"> <img width="650" src="wmbolles.gif" alt=""> </div>
 
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/wabolles" alt="wabolles's 42 stats" /></a>
