@@ -1,5 +1,5 @@
 <h1><a href="https://wmbolles.com">wmbolles.com</a></h1>
-<a href="https://wmbolles.me">wmbolles.me</a></h1>
+<!-- <a href="https://wmbolles.me">wmbolles.me</a></h1> -->
 <div align="center"> <img width="650" src="wmbolles.gif" alt=""> </div>
 
 <p align="center">
