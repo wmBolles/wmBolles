@@ -3,6 +3,18 @@
 <!-- <a href="https://wmbolles.me">wmbolles.me</a></h1> -->
 <!-- <div align="center"> <img width="650" src="wmbolles.gif" alt=""> </div> -->
 
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wmbolles&theme=dracula" />
+  <br/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wmbolles&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wmbolles&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wmbolles&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wmbolles&theme=dracula"/>
+</details>
+
+
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/wabolles" alt="wabolles's 42 stats" /></a>
 </p>
