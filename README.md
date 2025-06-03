@@ -1,7 +1,39 @@
-<h1 align="center"><a href="https://wmbolles.com">wmbolles.com</a></h1>
-<h1 align="center"><a href="https://th3f.tech">th3f.tech</a></h1>
-<!-- <a href="https://wmbolles.me">wmbolles.me</a></h1> -->
-<!-- <div align="center"> <img width="650" src="wmbolles.gif" alt=""> </div> -->
+
+<table align="center">
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=42+School+%7C+Full+Stack+Developer;Building+the+future%2C+one+commit+at+a+time;wmbolles%40terminal%3A~%24+echo+%22Hello+World%22)
+
+</div>
+
+
+<tr>
+<td align="center" width="50%">
+
+### 🎨 **wmbolles.com**
+*Portfolio & Showcase*
+
+[![Visit Portfolio](https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-FF6B6B?style=for-the-badge&logoColor=white)](https://wmbolles.com)
+
+**Where creativity meets code**  
+Interactive projects, case studies, and my coding journey
+
+</td>
+<td align="center" width="50%">
+
+### 🚀 **th3f.tech**
+*Tech Blog & Insights*
+
+[![Visit Blog](https://img.shields.io/badge/📝_READ_BLOG-4ECDC4?style=for-the-badge&logoColor=white)](https://th3f.tech)
+
+**Deep dives into technology**  
+Tutorials, insights, and tech adventures
+
+</td>
+</tr>
+
+
+
 
 <details align="center">
   <summary><b>⚡ Github Stats</b></summary>
@@ -35,3 +67,12 @@
 [![Best Project: MTP](https://img.shields.io/static/v1?label=Best%20Project&message=MTP&color=brightgreen)](https://github.com/wmbolles/MTP?tab=MTP)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wmbolles&label=Profile%20views&color=0e15b6&style=flat" alt="wmbolles" /> </p>
 </span>
+
+
+<div align="center">
+
+
+
+**"Talk is cheap. Show me the code."** - *Linus Torvalds*
+
+</div>
