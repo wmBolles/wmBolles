@@ -2,8 +2,7 @@
 <table align="center">
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=green&center=true&vCenter=true&multiline=true&width=600&height=100&lines=42+School+%7C+Full+Stack+Developer;Building+the+future%2C+one+commit+at+a+time;wmbolles%40terminal%3A~%24+echo+%22Hello+World%22)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=009000&center=true&vCenter=true&multiline=true&width=600&height=50&lines=42+School+%7C+Full+Stack+Developer;Building+the+future%2C+one+commit+at+a+time)
 </div>
 
 
@@ -24,14 +23,14 @@ Interactive projects, case studies, and my coding journey
 ### 🚀 **th3f.tech**
 *Tech Blog & Insights*
 
-[![Visit Blog](https://img.shields.io/badge/📝_READ_BLOG-4ECDC4?style=for-the-badge&logoColor=white)](https://th3f.tech)
+[![Visit Blog](https://img.shields.io/badge/📝_READ_DOCS-4ECDC4?style=for-the-badge&logoColor=white)](https://th3f.tech)
 
 **Deep dives into technology**  
 Tutorials, insights, and tech adventures
 
 </td>
 </tr>
-
+</table>
 
 
 
@@ -68,11 +67,3 @@ Tutorials, insights, and tech adventures
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wmbolles&label=Profile%20views&color=0e15b6&style=flat" alt="wmbolles" /> </p>
 </span>
 
-
-<div align="center">
-
-
-
-**"Talk is cheap. Show me the code."** - *Linus Torvalds*
-
-</div>
