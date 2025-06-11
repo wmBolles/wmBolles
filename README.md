@@ -7,7 +7,7 @@
 
 
 <tr>
-<td align="center" width="50%">
+<td align="center" width="100%">
 
 ### 🎨 **wmbolles.com**
 *Portfolio & Showcase*
@@ -16,17 +16,6 @@
 
 **Where creativity meets code**  
 Interactive projects, case studies, and my coding journey
-
-</td>
-<td align="center" width="50%">
-
-### 🚀 **th3f.tech**
-*Tech Blog & Insights*
-
-[![Visit Blog](https://img.shields.io/badge/📝_READ_DOCS-4ECDC4?style=for-the-badge&logoColor=white)](https://th3f.tech)
-
-**Deep dives into technology**  
-Tutorials, insights, and tech adventures
 
 </td>
 </tr>
