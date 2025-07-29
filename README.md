@@ -19,14 +19,6 @@
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/wabolles" alt="wabolles's 42 stats" /></a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,git,github,vim,bash,vscode" /><br>
-        <img src="https://skillicons.dev/icons?i=js,ts,vue,react,bootstrap" /><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,express" /><br>
-        <img src="https://skillicons.dev/icons?i=mongodb" />
-  </a>
-</p>
 
 <span align="center">
 <p align="center">____________________________</p>
