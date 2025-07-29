@@ -1,27 +1,7 @@
+<span align="center">
+ <h1><a href="https://wmbolles.com">wmbolles.com</a> </h1>
 
-<table align="center">
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=009000&center=true&vCenter=true&multiline=true&width=600&height=50&lines=42+School+%7C+Full+Stack+Developer;Building+the+future%2C+one+commit+at+a+time)
-</div>
-
-
-<tr>
-<td align="center" width="100%">
-
-### 🎨 **wmbolles.com**
-*Portfolio & Showcase*
-
-[![Visit Portfolio](https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-FF6B6B?style=for-the-badge&logoColor=white)](https://wmbolles.com)
-
-**Where creativity meets code**  
-Interactive projects, case studies, and my coding journey
-
-</td>
-</tr>
-</table>
-
-
+</span>
 
 <details align="center">
   <summary><b>⚡ Github Stats</b></summary>
