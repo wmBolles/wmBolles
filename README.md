@@ -46,11 +46,23 @@
     <img src="https://img.shields.io/github/stars/wmbolles?style=social" />
   </a>
   <br>
-  <a href="https://github.com/wmbolles/42?tab=42">
+  <a href="https://github.com/w<!--
+Source - https://stackoverflow.com/q
+Posted by Dave Dopson, modified by community. See post 'Timeline' for change history
+Retrieved 2026-01-14, License - CC BY-SA 4.0
+-->
+
+<span style="color: green"> Some green text </span>
+mbolles/42?tab=42">
     <img src="https://img.shields.io/static/v1?label=Best%20Project&message=42&color=brightgreen" />
   </a>
 </p>
 
 <p align="center">
+
   <img src="https://komarev.com/ghpvc/?username=wmbolles&label=Profile%20views&color=0e15b6&style=flat" alt="wmbolles" />
 </p>
+<div align="center">
+  <span style="color:red;"><p>the answer to the ultimate question</p></span>
+ <img style="width:400px;" src="https://i.pinimg.com/736x/a0/3d/58/a03d58a67b2ada15bf689c8482f69155.jpg" alt="42" />
+</div>
