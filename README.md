@@ -46,14 +46,7 @@
     <img src="https://img.shields.io/github/stars/wmbolles?style=social" />
   </a>
   <br>
-  <a href="https://github.com/w<!--
-Source - https://stackoverflow.com/q
-Posted by Dave Dopson, modified by community. See post 'Timeline' for change history
-Retrieved 2026-01-14, License - CC BY-SA 4.0
--->
-
-<span style="color: green"> Some green text </span>
-mbolles/42?tab=42">
+  <a href="https://github.com/wmbolles/42?tab=42">
     <img src="https://img.shields.io/static/v1?label=Best%20Project&message=42&color=brightgreen" />
   </a>
 </p>
