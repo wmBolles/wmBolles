@@ -3,7 +3,7 @@
  <p>
    http://ukwiimhk4iti6bsg2kahplmyd5fmgoaptqnwngjv7ui7iz4ffxtw3byd.onion/ <br>
    https://tirc.app/
-   https://teel.works/
+   <!-- https://teel.works/ -->
  </p>
 </span>
 
@@ -34,7 +34,7 @@
 <p align="center">____________________________</p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,c,cpp,git,github,vim,bash,docker" />
+    <img src="https://skillicons.dev/icons?i=linux,c,cpp,git,github,vim,bash,docker,prisma" />
 </p>
 
 <p align="center">____________________________</p>
