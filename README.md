@@ -16,10 +16,10 @@
 <!-- <p align="center">____________________________</p> -->
 
 <p align="center">
-  <!-- <a href="https://medium.com/@th3f">
+   <a href="https://medium.com/@th3f">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/thef">
+  <!-- <a href="https://www.geeksforgeeks.org/profile/thef">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a> -->
   <a href="https://stackoverflow.com/users/27709476/thef">
