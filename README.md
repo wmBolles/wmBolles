@@ -34,7 +34,7 @@
 <p align="center">____________________________</p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,c,cpp,git,github,vim,bash,docker,prisma" />
+    <img src="https://skillicons.dev/icons?i=linux,c,cpp,git,github,vim,bash,docker,prisma,ts,next" />
 </p>
 
 <p align="center">____________________________</p>
